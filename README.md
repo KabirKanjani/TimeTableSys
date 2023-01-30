@@ -1,5 +1,5 @@
 # TimeTableSys
-![Screenshot (84)](https://user-images.githubusercontent.com/56652281/215547189-32bd3379-94c5-495e-80e3-43aa90292e7a.png)
+
 ![Screenshot (85)](https://user-images.githubusercontent.com/56652281/215547198-f8269f01-b902-4339-93fd-212b5b1d05ef.png)
 ![Screenshot (58)](https://user-images.githubusercontent.com/56652281/215547200-dd8d5088-f6cf-4398-bf39-b07d9fa6e7f7.png)
 ![Screenshot (84)](https://user-images.githubusercontent.com/56652281/215547608-d3dcf0ef-4146-41de-86db-f59199b7fd55.png)
